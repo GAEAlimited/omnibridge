@@ -18,7 +18,7 @@
     "e2e-tests:public": "./e2e-tests/run-tests.sh"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.28.0",
     "bignumber.js": "^9.0.1",
     "dotenv": "^8.2.0",
     "envalid": "^6.0.2",
